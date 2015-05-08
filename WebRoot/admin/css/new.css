@@ -1,0 +1,30 @@
+H1 {
+	BORDER-RIGHT: #d7d7d7 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #d7d7d7 1px solid; PADDING-LEFT: 10px; FONT-SIZE: 14px;  PADDING-BOTTOM: 7px; MARGIN: 0px 0px 10px; OVERFLOW: hidden; BORDER-LEFT: #d7d7d7 1px solid; COLOR: #9cacaf; PADDING-TOP: 7px; BORDER-BOTTOM: #d7d7d7 1px solid
+}
+H1 A:visited {
+	COLOR: #333
+}
+H1 A:link {
+	COLOR: #333
+}
+H1 A:hover {
+	COLOR: #eb8a3d
+}
+H1 SPAN {
+	ZOOM: 1
+}
+H1 .action-span {
+	PADDING-LEFT: 10px; FLOAT: right
+}
+H1 .action-span A {
+	BORDER-RIGHT: #278296 2px solid; PADDING-RIGHT: 5px; BORDER-TOP: #278296 1px solid; DISPLAY: block; PADDING-LEFT: 23px; FONT-WEIGHT: 400; FONT-SIZE: 12px; BACKGROUND: url(../images/icon_add.gif) #ddeef2 no-repeat 3px 3px; PADDING-BOTTOM: 2px; BORDER-LEFT: #278296 1px solid; COLOR: #666; PADDING-TOP: 4px; BORDER-BOTTOM: #278296 2px solid; TEXT-DECORATION: none
+}
+H1 .action-span A:hover {
+	BORDER-RIGHT: #5fa6b6 2px solid; BORDER-TOP: #5fa6b6 1px solid; BACKGROUND: url(../images/icon_add.gif) #fff no-repeat 3px 3px; BORDER-LEFT: #5fa6b6 1px solid; COLOR: #666; BORDER-BOTTOM: #5fa6b6 2px solid; TEXT-DECORATION: none
+}
+H1 .action-span1 {
+	MARGIN-TOP: 2px; FLOAT: left
+}
+#footer {
+	BORDER-RIGHT: #d7d7d7 1px solid; PADDING-RIGHT: 15px; BORDER-TOP: #d7d7d7 1px solid; PADDING-LEFT: 15px; BACKGROUND: #ffffff; PADDING-BOTTOM: 15px; MARGIN: 10px 0px; BORDER-LEFT: #d7d7d7 1px solid; COLOR: #9cacaf; PADDING-TOP: 15px; BORDER-BOTTOM: #d7d7d7 1px solid; TEXT-ALIGN: center
+}

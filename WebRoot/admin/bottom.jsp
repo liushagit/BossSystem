@@ -1,0 +1,1 @@
+<%@ page language="java" pageEncoding="gbk"%>∞Ê»®À˘”– &copy;  2009-2010  ALL RIGHTS RESERVED°£
